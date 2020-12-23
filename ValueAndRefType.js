@@ -21,4 +21,3 @@ p.value = 20;
 console.log(p.value);
 console.log(q.value);
 //in object p is changing the value so q also refelected
-// 
